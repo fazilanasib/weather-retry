@@ -79,7 +79,7 @@ export default function Weather() {
           <p className="temp">20°</p>
         </div>
         <div>
-          <p>Tuesday</p>
+          <p>Tues</p>
           <img
             src={weatherData.imgUrl}
             alt={weatherData.description}
